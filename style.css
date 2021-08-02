@@ -1,0 +1,26 @@
+body{background-color: rgb(76, 79, 80);}
+h1{color: lightgreen; text-align: center;}
+h3{color: blue;}
+p{color: red;}
+
+.bodydiv
+{border: thick solid black; 
+    border-radius: 50px; 
+    background-color: gray;}
+.statements{
+    display: flex;
+}
+#s1
+{border: medium solid black; 
+    border-radius: 50px;text-align: 
+    center;float: left; width: 30%;
+    background-color: lightgray;
+    margin-left: 50px;}
+#s2{border: medium solid black; 
+    border-radius: 50px;text-align: 
+    center;float: left; width: 30%;
+    background-color: lightgray;}
+#s3{border: medium solid black; 
+    border-radius: 50px;text-align: 
+    center;float: left; width: 30%;
+    background-color: lightgray;}
